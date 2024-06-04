@@ -173,7 +173,7 @@ letter-spacing: 1px;
   
 
 .box1-img{
-   height: 200px;
+   height: 250px;
    background-size: cover;
    background-repeat: no-repeat;
    position: relative;
@@ -182,20 +182,20 @@ letter-spacing: 1px;
 
 
 .box2-img{
-   height: 200px;
+   height: 250px;
    background-size: cover;
    background-repeat: no-repeat;
 }
 
 
 .box3-img{
-   height: 200px;
+   height: 250px;
    background-size: cover;
    background-repeat: no-repeat;
 }
 
 .box4-img{
-   height: 200px;
+   height: 250px;
    background-size: cover;
    background-repeat: no-repeat;
 }
