@@ -38,8 +38,10 @@ var age=prompt("enter your age");
     if(age>18){
         alert("you can enter this website");
     }
-    else{
+    else if (age<18){
         alert("you can quit");
+        {window.location="logout.html";}
+        
     }
        
 </script>
