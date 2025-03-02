@@ -91,3 +91,8 @@
 .container form .submit-btn:hover{
   background: #2ecc71;
 }
+
+@media screen and (max-width: 768px) {
+  body{
+    background-color:'red';
+    
