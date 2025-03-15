@@ -19,7 +19,7 @@
 
 /*navbar*/
 
-@media screen and (max-width: 1000px){
+
 
 .container{
     height: 150px;
@@ -76,11 +76,11 @@
 .navlist.fa-solid{
     font-size: 15px;
 }
-}
 
 
 
-@media screen and (max-width: 600px) {
+
+/*@media screen and (max-width: 600px) {
  .container{
     height: 150px;
     justify-content: center;
@@ -319,7 +319,7 @@
 }
 }
 
-
+*/
 
 
  
@@ -365,7 +365,7 @@
 /*best seller*/
 
 
-@media screen and (max-width: 800px){
+
 
 .best-sellers{
 
@@ -448,8 +448,8 @@ letter-spacing: 1px;
    background-repeat: no-repeat;
 }
 
-}
 
+/*
 @media screen and (max-width: 1000px) {
 
  .best-sellers{
@@ -705,12 +705,11 @@ letter-spacing: 1px;
 }
 
 }
-
+*/
 
 
  /*categories*/
 
-@media screen and (max-width: 1000px) {
 
  .msg{
 
@@ -754,10 +753,8 @@ letter-spacing: 1px;
     color:lightskyblue;
     text-decoration: none;
  }
-}
 
-
-
+/*
 @media screen and (max-width: 800px) {
 
   .msg{
@@ -849,7 +846,7 @@ letter-spacing: 1px;
  }
 }
 
-
+*/
  
  /*brands*/
 
@@ -941,8 +938,6 @@ letter-spacing: 1px;
 
 
 /*footer*/
-
-@media screen and (max-width: 1200px) {
 
 footer{
    background:grey;
@@ -1046,10 +1041,7 @@ a:hover{
    padding: 7px;
 }
 
-}
-
-
-
+/*
 @media screen and (max-width: 1000px) {
  footer{
    background:grey;
@@ -1365,7 +1357,7 @@ a:hover{
 }
 
 }
-
+*/
  
 
  
